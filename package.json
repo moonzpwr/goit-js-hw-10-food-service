@@ -5,11 +5,11 @@
   "main": "index.js",
   "scripts": {
     "dev": "parcel src/index.html",
-    "build": "parcel build src/index.html"
+    "build": "parcel build src/index.html --public-url ./goit-js-hw-10-food-service/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise.git"
+    "url": "git+https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise.git/"
   },
   "author": "moonzpwr",
   "license": "ISC",
