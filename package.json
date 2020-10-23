@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise.git/"
+    "url": "git+https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise.git/dist/"
   },
   "author": "moonzpwr",
   "license": "ISC",
