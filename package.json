@@ -1,0 +1,26 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "homework #10 servise-food",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel src/index.html",
+    "build": "parcel build src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise.git"
+  },
+  "author": "moonzpwr",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise/issues"
+  },
+  "homepage": "https://github.com/moonzpwr/goit-js-hw-10-gallery-food-servise#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "handlebars": "^4.7.6"
+  }
+}
